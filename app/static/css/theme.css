@@ -1,0 +1,145 @@
+body {
+  padding-top: 80px;
+  text-align: center;
+  color: #ffffff;
+  font-family: monospace;
+  //background-image: url('../img/bg.gif');
+  background-size:100%;
+  background: #29537A;
+
+
+}
+.intro {
+  font-size: 18px;
+  padding-top: 2%;
+  padding-bottom: 4%;
+}
+.intro1 {
+  font-size: 18px;
+  padding-top: 2%;
+  padding-bottom: 4%;
+  text-align: left;
+}
+.productBtn, .productDropDown >li {
+  width: 300px;
+  text-align: center;
+}
+.shortIcon {
+  font-size: 18px;
+  border: 0.5px solid #E8D2BA;
+  padding: 20px;
+  height: 110px;
+  cursor: pointer;
+  color: #fff;
+}
+.loanContent {
+  display: none;
+}
+.backBtnContainer {
+  text-align: left;
+  margin-bottom: 10px;
+  display: none;
+  cursor: pointer;
+}
+.tab-content {
+  text-align: left;
+  height: auto;
+  padding-bottom: 2%;
+}
+.mainContent {
+  font-size: 18px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  display: none;
+}
+.aboutUs {
+  font-size: 18px;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  display: none;
+}
+.contactForm {
+  border: 1px solid #ffffff;
+  border-radius: 50px;
+  padding-left: 24px;
+  background: #90D1DA;
+}
+.contactInfo {
+  display: none;
+  border: 1px solid #696969;
+  border-radius: 50px;
+  text-align: left;
+  font-family: cursive;
+  padding: 4%;
+  background: #90D1DA;
+}
+.formInput {
+  text-align: left;
+  width: 100%;
+  font-size: 16px;
+  font-family: monospace;
+}
+#msg {
+  text-align: left;
+  margin-bottom: 1%;
+}
+.navbar-brand {
+  padding: 2px 15px;
+}
+.navbar{
+  background: #ffffff;
+}
+#flashContent {
+  color: #ffffff;
+  border: 0.5px solid #ffffff;
+  //background:#6b6b6b;
+  //color:#fff;
+}
+.loanIcon {
+  background: #0ad2ad
+}
+.projectLoanIcon {
+  background: #143D23
+}
+.investmentIcon {
+  background: #B83D3D
+}
+.insuranceIcon {
+  background: #f2c40f
+}
+.propertyIcon {
+  background: #C65392
+}
+.itrIcon {
+  background: #4F1C54
+}
+.nav-tabs, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a {
+  border: none;
+}
+.nav-tabs>li>a {
+  color: #ffffff;
+}
+.nav-tabs>li>a:hover, .nav-tabs>li.active>a:hover {
+  background-color: #fff;
+  color:#696969;
+  border: none;
+}
+.roundIcon {
+  background: #ffc0c0;
+  padding: 20px;
+  border-radius: 50%;
+  color:#fff;
+}
+
+.nav-tabs>li {
+    max-width: 150px;
+    min-width: 150px;
+    min-height: 150px;
+}
+.internalBtn,.internalBtn:hover{
+  background-color: #f2c40f;
+}
+
+textarea {
+   resize: none;
+}
